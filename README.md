@@ -33,3 +33,4 @@ npm run dev
 
 # Build for production
 npm run build
+![image](https://github.com/user-attachments/assets/2f326288-72d9-442a-9528-354cdda359fb)
